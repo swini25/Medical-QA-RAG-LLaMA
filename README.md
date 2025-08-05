@@ -35,7 +35,7 @@ Built with:
 
 1. **Clone the repo**:
 ```bash
-git clone 
+git clone git@github.com:swini25/Medical-QA-RAG-LLaMA.git
 cd medical-myths-bot
 ```
 2. Create .env file and add your Hugging Face token:
